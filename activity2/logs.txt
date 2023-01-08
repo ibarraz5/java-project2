@@ -1,0 +1,25 @@
+
+/Mon Jan 03 22:24:36 MST 2022: asdfasd - CONNECT
+-Mon Jan 03 22:24:48 MST 2022: asdfasd - START
++Mon Jan 03 22:24:51 MST 2022: asdfasd - WIN
+.Mon Jan 03 22:28:09 MST 2022: _check - CONNECT
+,Mon Jan 03 22:28:21 MST 2022: _check - START
+*Mon Jan 03 22:28:24 MST 2022: _check - WIN
+0Mon Jan 03 22:31:07 MST 2022: _checker - CONNECT
+.Mon Jan 03 22:31:18 MST 2022: _checker - START
+,Mon Jan 03 22:31:22 MST 2022: _checker - WIN
+/Mon Jan 03 22:36:08 MST 2022: ---here - CONNECT
+-Mon Jan 03 22:36:14 MST 2022: ---here - START
++Mon Jan 03 22:36:17 MST 2022: ---here - WIN
+3Mon Jan 03 22:39:36 MST 2022: --here here - CONNECT
+1Mon Jan 03 22:39:42 MST 2022: --here here - START
+/Mon Jan 03 22:39:45 MST 2022: --here here - WIN
+1Mon Jan 03 22:42:49 MST 2022: --asdfjkk - CONNECT
+/Mon Jan 03 22:42:59 MST 2022: --asdfjkk - START
+-Mon Jan 03 22:43:01 MST 2022: --asdfjkk - WIN
+2Mon Jan 03 22:46:44 MST 2022: check here - CONNECT
+0Mon Jan 03 22:46:47 MST 2022: check here - START
+5Mon Jan 03 22:50:24 MST 2022: ---check here - CONNECT
+3Mon Jan 03 22:50:28 MST 2022: ---check here - START
+1Mon Jan 03 22:50:31 MST 2022: ---check here - WIN
+-Mon Jan 03 23:40:55 MST 2022: ivan - CONNECT
